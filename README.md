@@ -172,11 +172,12 @@ Features:
 
 <div align="center">
 
-![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanuSharma08&show_icons=true&theme=light)
+<!-- ![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanuSharma08&show_icons=true&theme=light) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuSharma08&layout=compact&theme=light)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuSharma08&layout=compact&theme=light) -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TanuSharma08&theme=light&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TanuSharma08&theme=light)
+
 </div>
 
 ---
