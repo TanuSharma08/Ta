@@ -172,9 +172,9 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanuSharma08&show_icons=true&theme=default&hide=issues&count_private=true" height="170"/>
+![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanuSharma08&show_icons=true&theme=light)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanuSharma08&layout=compact&theme=default" height="170"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuSharma08&layout=compact&theme=light)
 
 </div>
 
