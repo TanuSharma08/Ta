@@ -172,11 +172,13 @@ Features:
 
 <div align="center">
 
-<!-- ![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanuSharma08&show_icons=true&theme=light) -->
+<!-- Stats Card -->
+![Tanu's GitHub stats](https://github-readme-stats-tawny.vercel.app/api?username=TanuSharma08&show_icons=true&theme=default)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuSharma08&layout=compact&theme=light) -->
+<br />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TanuSharma08&theme=light)
+<!-- Streak Stats Card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanuSharma08&theme=shadow-green)
 
 </div>
 
